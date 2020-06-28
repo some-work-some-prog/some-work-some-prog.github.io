@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Rate app</string>
+    <string name="send_button">Оценить</string>
+    <string name="rate_context">Пожалуйтса,введите сообщение, пожелания, оценку по 10 бальной шкале.</string>
+    <string name="signin_button">Войти</string>
+    <string name="email_input">Введите email</string>
+    <string name="edit_email">Введите email</string>
+    <string name="edit_password">Введите пароль</string>
+    <string name="textview_hint1">Ваш аккаунт будет создан только для идентификации пользователя. Он будет создан автоматически и удален после использования.</string>
+    <string name="Signin">Войти</string>
+    <string name="textview">Спасибо за отзыв!</string>
+</resources>
