@@ -1,0 +1,10 @@
+C:\Users\максон-клаксон\source\repos\Minecraft Trainer\Minecraft Trainer\bin\Debug\Minecraft Trainer.exe.config
+C:\Users\максон-клаксон\source\repos\Minecraft Trainer\Minecraft Trainer\bin\Debug\Minecraft Trainer.exe
+C:\Users\максон-клаксон\source\repos\Minecraft Trainer\Minecraft Trainer\bin\Debug\Minecraft Trainer.pdb
+C:\Users\максон-клаксон\source\repos\Minecraft Trainer\Minecraft Trainer\obj\Debug\Minecraft Trainer.csprojAssemblyReference.cache
+C:\Users\максон-клаксон\source\repos\Minecraft Trainer\Minecraft Trainer\obj\Debug\Minecraft_Trainer.Form1.resources
+C:\Users\максон-клаксон\source\repos\Minecraft Trainer\Minecraft Trainer\obj\Debug\Minecraft_Trainer.Properties.Resources.resources
+C:\Users\максон-клаксон\source\repos\Minecraft Trainer\Minecraft Trainer\obj\Debug\Minecraft Trainer.csproj.GenerateResource.cache
+C:\Users\максон-клаксон\source\repos\Minecraft Trainer\Minecraft Trainer\obj\Debug\Minecraft Trainer.csproj.CoreCompileInputs.cache
+C:\Users\максон-клаксон\source\repos\Minecraft Trainer\Minecraft Trainer\obj\Debug\Minecraft Trainer.exe
+C:\Users\максон-клаксон\source\repos\Minecraft Trainer\Minecraft Trainer\obj\Debug\Minecraft Trainer.pdb
